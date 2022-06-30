@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.196.240.117:8081/repository/PayPal-snapshot//</url>
+	      <url>http://54.196.240.117:8081/repository/mazda-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
